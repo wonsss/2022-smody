@@ -12,3 +12,5 @@
 - release 에서 태그 작업, QA후에 release 브랜치에서 main 브랜치에 pull request작성하고 merge합니다.
     - main으로 merge 시킬때는 github의 create a merge commit 기능을 사용합니다.
 - main 에서 최신화된 내용을 develop 에도 적용합니다.
+
+test
